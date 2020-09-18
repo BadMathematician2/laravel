@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/RedisCache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/Packages/ArrayRandom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/Packages/ChromeExtension" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/Packages/DockerManager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/Packages/GoogleMap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/Packages/GoogleMapRender" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/Packages/LaravelEchoServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/Packages/Promise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/Packages/RedisCache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/Packages/SearchInText" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/Packages/SearchLinksInText" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/Services" vcs="Git" />
+  </component>
+</project>
